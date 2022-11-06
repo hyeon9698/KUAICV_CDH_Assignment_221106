@@ -1,6 +1,7 @@
 # KUAICV_CDH_Assignment_221106
 Implicit Neural Representations을 활용한 Image Reconstruction 성능 개선하기
 
+- 노션도 참고해 주세요 (사진 들어가 있음) [노션 링크](https://dongdong9698.notion.site/221106-07abc7ec0bba4914afe708951539b986)
 ---
 
 세팅
