@@ -29,6 +29,18 @@ unzip DIV2K_valid_HR.zip
 
 ### Run ipynb file
 
+|File name|Method|
+|-:|-|
+|baseline_No_fourier.ipynb|baseline no fourier|
+|baseline_Fourier.ipynb|baseline|
+|baseline_SIREN_only_activation.ipynb|baseline+Sine Activation|
+|baseline_SIREN.ipynb|SIREN|
+|baseline_SIREN_Fourier.ipynb|SIREN+Fourier|
+|baseline_LPIPS_VGG.ipynb|LPIPS VGG|
+|baseline_LPIPS_ALEX.ipynb|LPIPS ALEX|
+|baseline_perceptual_loss.ipynb|Perceptual Loss|
+|baseline_SIREN_Fourier_Perceptual_loss.ipynb|SIREN+Fourier+Percep.L|
+
 ---
 
 ### Quantitative Evaluation
