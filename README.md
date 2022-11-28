@@ -43,10 +43,21 @@ unzip DIV2K_valid_HR.zip
 
 ---
 
-### Quantitative Evaluation
+## Quantitative Evaluation
 
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/41141851/204196197-e9fe540c-eeac-4c73-b34d-9c6d25ff37d5.png">
 
-### Qualitative Analysis
+## Qualitative Analysis
 
-![image](https://user-images.githubusercontent.com/41141851/204199601-b1471c3d-9eda-427c-b44e-20a8781dfab2.png)
+![image](https://user-images.githubusercontent.com/41141851/204196664-44729e5f-58ac-44f7-9d33-7e73fe4f20bf.png)
+
+## Reference
+
+>- [Pytorch Fourier Feature Networks Code](https://github.com/ndahlquist/pytorch-fourier-feature-networks)
+>- Fourier Feature Networks - Tancik, Matthew, et al. "Fourier features let networks learn high frequency functions in low
+dimensional domains." Advances in Neural Information Processing Systems 33 (2020): 7537-7547.
+>- SIREN - Sitzmann, Vincent, et al. "Implicit neural representations with periodic activation
+functions." Advances in Neural Information Processing Systems 33 (2020)
+>- LPIPS - Zhang, Richard, et al. "The unreasonable effectiveness of deep features as a perceptual metric."
+Proceedings of the IEEE conference on computer vision and pattern recognition. 2018.
+>- Perceptual Loss - Johnson, Justin, Alexandre Alahi, and Li Fei-Fei. "Perceptual losses for real-time style transfer and super-resolution." European conference on computer vision. Springer, Cham, 2016.
