@@ -49,7 +49,7 @@ unzip DIV2K_valid_HR.zip
 
 ## Qualitative Analysis
 
-![image](https://user-images.githubusercontent.com/41141851/204196664-44729e5f-58ac-44f7-9d33-7e73fe4f20bf.png)
+![image](https://user-images.githubusercontent.com/41141851/204199601-b1471c3d-9eda-427c-b44e-20a8781dfab2.png)
 
 ## Reference
 
