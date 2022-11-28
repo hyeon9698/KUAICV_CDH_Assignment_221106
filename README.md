@@ -11,14 +11,30 @@ Improving image reconstruction performance using Implicit Neural Representations
 
 ---
 
-environment setting
+## Getting Started
+
+### Installation
 
 ```shell
 git clone https://github.com/hyeon9698/KUAICV_CDH_Assignment_221106.git
 cd KUAICV_CDH_Assignment_221106
 ```
-Download DIV2K_valid_HR Dataset
+
+### Download DIV2K_valid_HR Dataset
+
 ```
 wget http://data.vision.ee.ethz.ch/cvl/DIV2K/DIV2K_valid_HR.zip
 unzip DIV2K_valid_HR.zip
 ```
+
+### Run ipynb file
+
+---
+
+### Quantitative Evaluation
+
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/41141851/204196197-e9fe540c-eeac-4c73-b34d-9c6d25ff37d5.png">
+
+### Qualitative Analysis
+
+![image](https://user-images.githubusercontent.com/41141851/204196664-44729e5f-58ac-44f7-9d33-7e73fe4f20bf.png)
