@@ -5,7 +5,7 @@ Improving image reconstruction performance using Implicit Neural Representations
 
 *Tancik, Matthew, et al. "Fourier features let networks learn high frequency functions in low dimensional domains." Advances in Neural Information Processing Systems 33 (2020)*
 
-- Notion Link: [Notion Link](https://dongdong9698.notion.site/221106-07abc7ec0bba4914afe708951539b986)
+- Notion Link: [Notion Link](https://hyeon9698.notion.site/Implicit-Neural-Representations-07abc7ec0bba4914afe708951539b986)
 
 <img width="1136" alt="image" src="https://user-images.githubusercontent.com/41141851/204118448-78d25a7a-f169-43b1-9949-5217c8c3f2c8.png">
 
